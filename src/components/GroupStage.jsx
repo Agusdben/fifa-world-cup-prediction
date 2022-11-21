@@ -28,7 +28,7 @@ const GroupStage = ({ handleNextStep }) => {
   return (
     <Section>
       <Title>Group stage</Title>
-      <article className='flex flex-1 flex-wrap gap-4 lg:grid lg:grid-cols-4'>
+      <article className='flex max-w-7xl flex-1 flex-wrap gap-4 lg:grid lg:grid-cols-4'>
         {GROUPS.map(group => (
           <GroupPredictionPair
             key={group.group}
