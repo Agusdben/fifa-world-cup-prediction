@@ -1,132 +1,130 @@
-import KOREA_REPUBLIC_FLAG from '../assets/flags/south-korea-flag.svg'
-
 export default {
   qatar: {
     name: 'Qatar',
-    flag: 'https://countryflagsapi.com/svg/Qatar'
+    flag: './Qatar.png'
   },
   ecuador: {
     name: 'Ecuador',
-    flag: 'https://countryflagsapi.com/svg/Ecuador'
+    flag: './Ecuador.png'
   },
   senegal: {
     name: 'Senegal',
-    flag: 'https://countryflagsapi.com/svg/Senegal'
+    flag: './Senegal.png'
   },
   netherlands: {
     name: 'Netherlands',
-    flag: 'https://countryflagsapi.com/svg/Netherlands'
+    flag: './Netherlands.png'
   },
   england: {
     name: 'England',
-    flag: 'https://countryflagsapi.com/svg/England'
+    flag: './England.png'
   },
   iran: {
     name: 'Iran',
-    flag: 'https://countryflagsapi.com/svg/Iran'
+    flag: './Iran.png'
   },
   usa: {
     name: 'USA',
-    flag: 'https://countryflagsapi.com/svg/USA'
+    flag: './USA.png'
   },
   wales: {
     name: 'Wales',
-    flag: 'https://countryflagsapi.com/svg/Wales'
+    flag: './Wales.png'
   },
   argentina: {
     name: 'Argentina',
-    flag: 'https://countryflagsapi.com/svg/Argentina'
+    flag: './Argentina.png'
   },
   saudi_arabia: {
     name: 'Saudi Arabia',
-    flag: 'https://countryflagsapi.com/svg/sa'
+    flag: './Saudi_Arabia.png'
   },
   mexico: {
     name: 'Mexico',
-    flag: 'https://countryflagsapi.com/svg/Mexico'
+    flag: './Mexico.png'
   },
   poland: {
     name: 'Poland',
-    flag: 'https://countryflagsapi.com/svg/Poland'
+    flag: './Poland.png'
   },
   france: {
     name: 'France',
-    flag: 'https://countryflagsapi.com/svg/France'
+    flag: './France.png'
   },
   australia: {
     name: 'Australia',
-    flag: 'https://countryflagsapi.com/svg/Australia'
+    flag: './Australia.png'
   },
   denmark: {
     name: 'Denmark',
-    flag: 'https://countryflagsapi.com/svg/Denmark'
+    flag: './Denmark.png'
   },
   tunisia: {
     name: 'Tunisia',
-    flag: 'https://countryflagsapi.com/svg/Tunisia'
+    flag: './Tunisia.png'
   },
   spain: {
     name: 'Spain',
-    flag: 'https://countryflagsapi.com/svg/Spain'
+    flag: './Spain.png'
   },
   costa_rica: {
     name: 'Costa Rica',
-    flag: 'https://countryflagsapi.com/svg/cr'
+    flag: './Costa_Rica.png'
   },
   germany: {
     name: 'Germany',
-    flag: 'https://countryflagsapi.com/svg/Germany'
+    flag: './Germany.png'
   },
   japan: {
     name: 'Japan',
-    flag: 'https://countryflagsapi.com/svg/Japan'
+    flag: './Japan.png'
   },
   belgium: {
     name: 'Belgium',
-    flag: 'https://countryflagsapi.com/svg/Belgium'
+    flag: './Belgium.png'
   },
   canada: {
     name: 'Canada',
-    flag: 'https://countryflagsapi.com/svg/Canada'
+    flag: './Canada.png'
   },
   morocco: {
     name: 'Morocco',
-    flag: 'https://countryflagsapi.com/svg/Morocco'
+    flag: './Morocco.png'
   },
   croatia: {
     name: 'Croatia',
-    flag: 'https://countryflagsapi.com/svg/Croatia'
+    flag: './Croatia.png'
   },
   brazil: {
     name: 'Brazil',
-    flag: 'https://countryflagsapi.com/svg/Brazil'
+    flag: './Brazil.png'
   },
   serbia: {
     name: 'Serbia',
-    flag: 'https://countryflagsapi.com/svg/Serbia'
+    flag: './Serbia.png'
   },
   switzerland: {
     name: 'Switzerland',
-    flag: 'https://countryflagsapi.com/svg/Switzerland'
+    flag: './Switzerland.png'
   },
   cameroon: {
     name: 'Cameroon',
-    flag: 'https://countryflagsapi.com/svg/Cameroon'
+    flag: './Cameroon.png'
   },
   portugal: {
     name: 'Portugal',
-    flag: 'https://countryflagsapi.com/svg/Portugal'
+    flag: './Portugal.png'
   },
   ghana: {
     name: 'Ghana',
-    flag: 'https://countryflagsapi.com/svg/Ghana'
+    flag: './Ghana.png'
   },
   uruguay: {
     name: 'Uruguay',
-    flag: 'https://countryflagsapi.com/svg/Uruguay'
+    flag: './Uruguay.png'
   },
   kora_republic: {
     name: 'Korea Republic',
-    flag: KOREA_REPUBLIC_FLAG
+    flag: './Korea_republic.png'
   }
 }
